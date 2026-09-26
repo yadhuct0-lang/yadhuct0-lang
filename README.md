@@ -17,7 +17,7 @@
 
 ## 💼&nbsp; About
 
-Aspiring DevOps engineer with hands-on experience across **AWS**, **Terraform**, **CI/CD**, **Docker**, and **Kubernetes**. I care about building infrastructure that's automated, observable, and boring in the best way — systems that just work. Currently deepening my Kubernetes and production-automation skills while contributing to open-source infra tooling.
+DevOps engineer with hands-on experience across **AWS**, **Terraform**, **CI/CD**, **Docker**, and **Kubernetes**. I care about building infrastructure that's automated, observable, and boring in the best way — systems that just work. Currently deepening my Kubernetes and production-automation skills while contributing to open-source infra tooling.
 
 <br>
 
